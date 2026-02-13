@@ -23,7 +23,7 @@ import (
 	"github.com/pingcap/go-ycsb/pkg/prop"
 	"github.com/pingcap/go-ycsb/pkg/util"
 
-	"github.com/gocql/gocql"
+	"github.com/gocql/gocql/v2"
 	"github.com/magiconair/properties"
 	"github.com/pingcap/go-ycsb/pkg/ycsb"
 )
