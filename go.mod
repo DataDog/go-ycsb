@@ -8,7 +8,7 @@ require (
 	github.com/apple/foundationdb/bindings/go v0.0.0-20200112054404-407dc0907f4f
 	github.com/boltdb/bolt v1.3.1
 	github.com/cenkalti/backoff/v4 v4.1.3
-	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
+	github.com/chzyer/readline v1.5.1
 	github.com/dgraph-io/badger v1.5.4
 	github.com/elastic/go-elasticsearch/v8 v8.3.0
 	github.com/envoyproxy/go-control-plane v0.11.1-0.20230524094728-9239064ad72f // indirect
@@ -74,7 +74,6 @@ require (
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/chzyer/test v1.0.0 // indirect
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe // indirect
 	github.com/cncf/xds/go v0.0.0-20230607035331-e9ce68804cb4 // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
