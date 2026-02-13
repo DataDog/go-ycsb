@@ -54,7 +54,7 @@ require (
 	cloud.google.com/go/iam v0.13.0 // indirect
 	cloud.google.com/go/longrunning v0.4.1 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7 // indirect
-	github.com/apache/thrift v0.0.0-20171203172758-327ebb6c2b6d // indirect
+	github.com/apache/thrift v0.22.0 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.21 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.12.17 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.23 // indirect
