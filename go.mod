@@ -142,6 +142,6 @@ require (
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 )
 
-replace github.com/apache/thrift => github.com/apache/thrift v0.0.0-20171203172758-327ebb6c2b6d
+replace github.com/apache/thrift => github.com/apache/thrift v0.22.0
 
-go 1.18
+go 1.23
